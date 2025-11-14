@@ -32,9 +32,9 @@ I’m currently studying B.Tech in Computer Science & Engineering at IIIT Naya R
 ---
 
 ### 📊 GitHub Statistics  
-[![Paridhi’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)](https://github.com/YOUR_USERNAME)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)](https://github.com/YOUR_USERNAME)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)](https://github.com/YOUR_USERNAME)  
+[![Paridhi’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paridhisharmagithub&show_icons=true&theme=radical)](https://github.com/Paridhisharmagithub)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paridhisharmagithub&layout=compact&theme=radical)](https://github.com/Paridhisharmagithub)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Paridhisharmagithub&theme=radical)](https://github.com/Paridhisharmagithub)  
 
 ---
 
@@ -51,9 +51,9 @@ I’m currently studying B.Tech in Computer Science & Engineering at IIIT Naya R
 ---
 
 ### 📬 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paridhisharma36)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paridhisharmagithub)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sparidhi161.ps@gmail.com)
 
 ---
 
