@@ -1,5 +1,5 @@
 # Hi there, I’m **Paridhi Sharma**   
-**Software Engineer | AI/EdTech Enthusiast | Full-Stack Web Developer**  
+**Software Engineer | Full-Stack Web Developer**  
 
 Building impactful solutions in **AI-powered platforms**, **web development**, and **healthcare technology**.  
 
