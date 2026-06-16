@@ -1,7 +1,12 @@
 # Hi there, I’m **Paridhi Sharma**   
-**Software Engineer | Full-Stack Web Developer**  
+**Software Engineer | Full-Stack Web Developer** 
 
-Building impactful solutions in **AI-powered platforms**, **web development**, and **healthcare technology**.  
+🏆 IEEE ICDSINC 2025 Best Paper Award Recipient
+
+💼 Software Engineering Intern @ Samsung R&D Institute India
+
+📚 Interested in Generative AI, Retrieval-Augmented Generation (RAG), Scalable Web Systems, and Real-World Product Development
+
 
 ---
 
