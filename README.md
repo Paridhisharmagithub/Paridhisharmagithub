@@ -1,4 +1,4 @@
-# Hi there, I’m **Paridhi Sharma**   
+# **Paridhi Sharma**   
 **Software Engineer | Full-Stack Web Developer** 
 
 🏆 IEEE ICDSINC 2025 Best Paper Award Recipient
