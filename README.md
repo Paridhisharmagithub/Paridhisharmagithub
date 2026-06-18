@@ -12,7 +12,7 @@
 
 ##  About Me  
 I’m currently studying B.Tech in Computer Science & Engineering at IIIT Naya Raipur and deeply passionate about creating web & AI systems that solve **real-world problems**.  
--  Focused on: Full-Stack Development (React, Flask, Firebase) & AI/ML integrations  
+-  Focused on: Full-Stack Development (React, Flask, MongoDB) & AI/ML integrations  
 -  Interests: EdTech platforms, Healthcare digital solutions, Real-time applications  
 -  Ask me about: React.js, Python, REST APIs, RAG/LLM architectures, Tailwind CSS  
 -  Fun fact: I love bridging design, code, and meaningful user impact  
@@ -25,7 +25,7 @@ I’m currently studying B.Tech in Computer Science & Engineering at IIIT Naya R
 - Developed the AI chatbot using Google Gemini API and OCR extraction; digitized over **80%** of uploaded health data.  
 - Devised a scalable medicine search engine handling a dataset of **2.70 Million+** records, optimized API communication with Axios and real-time sync via Firebase Firestore.
 
-### **Personal Study Guide & Test Generator** | ReactJS · Flask · Python  
+### **Personal Study Guide & Test Generator** | ReactJS · Flask · Python · PostgreSQL
 - Built an AI-powered platform to generate JEE mock questions with a cosine similarity average of ~0.61 and a production speed of 10+ questions/minute.  
 - Integrated topic-wise filters, RAG architecture for source-backed generation and personalized learning analytics.  
 - Deployed using ReactJS (frontend), FastAPI (backend) & MongoDB for scalable, low-latency user interaction.
